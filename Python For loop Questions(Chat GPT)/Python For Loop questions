@@ -1,0 +1,124 @@
+Sure! Here are 100 Python for loop practice questions to help you improve your understanding and skills:
+
+1. Print numbers from 1 to 10.
+2. Print even numbers between 1 and 20.
+3. Print odd numbers between 1 and 20.
+4. Print the multiplication table of 5.
+5. Print the elements of a list.
+6. Print the elements of a list in reverse order.
+7. Print each character of a string.
+8. Print the sum of all numbers in a list.
+9. Print the product of all numbers in a list.
+10. Print the square of each number in a list.
+11. Print the cube of each number in a list.
+12. Print the factorial of a given number.
+13. Print the first 10 Fibonacci numbers.
+14. Print all prime numbers between 1 and 50.
+15. Print the length of each string in a list.
+16. Print the reverse of each string in a list.
+17. Print all palindromes in a list of strings.
+18. Print the index and value of each element in a list.
+19. Print the index and character of each character in a string.
+20. Print the sum of digits of a given number.
+21. Print the average of numbers in a list.
+22. Print the largest number in a list.
+23. Print the smallest number in a list.
+24. Print the second largest number in a list.
+25. Print the second smallest number in a list.
+26. Print the common elements between two lists.
+27. Print the elements in a list that are not in another list.
+28. Print the frequency of each element in a list.
+29. Print the unique elements in a list.
+30. Print all the elements that appear more than once in a list.
+31. Print the transpose of a matrix.
+32. Print the sum of each row in a matrix.
+33. Print the sum of each column in a matrix.
+34. Print the diagonal elements of a matrix.
+35. Print the upper triangular matrix.
+36. Print the lower triangular matrix.
+37. Print the elements of a list in sorted order without using sort().
+38. Print the cumulative sum of elements in a list.
+39. Print the cumulative product of elements in a list.
+40. Print the elements of a list in chunks of 3.
+41. Print the first 10 perfect squares.
+42. Print the first 10 perfect cubes.
+43. Print the numbers from 1 to 100 that are divisible by both 3 and 5.
+44. Print the first 10 triangular numbers.
+45. Print the first 10 pentagonal numbers.
+46. Print all Armstrong numbers between 1 and 1000.
+47. Print the binary representation of numbers from 1 to 10.
+48. Print the hexadecimal representation of numbers from 1 to 10.
+49. Print the octal representation of numbers from 1 to 10.
+50. Print the ASCII value of each character in a string.
+51. Print the characters corresponding to ASCII values from 65 to 90.
+52. Print the first 10 prime numbers.
+53. Print the first 10 composite numbers.
+54. Print the first 10 even Fibonacci numbers.
+55. Print the first 10 odd Fibonacci numbers.
+56. Print the first 10 Lucas numbers.
+57. Print the factorial of each number in a list.
+58. Print the GCD of two numbers.
+
+--------------------------------------------------------------------------------------------
+
+Sure! Here are more Python for loop practice questions to further enhance your skills:
+
+101. Print the frequency of each character in a string.
+102. Print the string after removing duplicate characters.
+103. Print the string after sorting the characters in alphabetical order.
+104. Print the string after sorting the characters in reverse alphabetical order.
+105. Print the sum of ASCII values of characters in a string.
+106. Print the string after removing all digits.
+107. Print the string after removing all special characters.
+108. Print the string after keeping only alphabets.
+109. Print the string after keeping only digits.
+110. Print the string after swapping the case of each character.
+111. Print the string after shifting each character by 2 positions in the alphabet.
+112. Print the string after encoding it with a Caesar cipher (shift of 3).
+113. Print all substrings of a string.
+114. Print all substrings of a string of length 3.
+115. Print all anagrams of a given string.
+116. Print the longest palindromic substring in a string.
+117. Print all permutations of a given string.
+118. Print the first repeating word in a string.
+119. Print the first non-repeating word in a string.
+120. Print the longest word in a list of strings.
+121. Print the shortest word in a list of strings.
+122. Print the frequency of each word in a list of strings.
+123. Print the list of strings after removing duplicates.
+124. Print the list of strings after sorting in alphabetical order.
+125. Print the list of strings after sorting in reverse alphabetical order.
+126. Print the list of strings after converting each to uppercase.
+127. Print the list of strings after converting each to lowercase.
+128. Print the list of strings after reversing each string.
+129. Print the list of strings after removing all vowels from each string.
+130. Print the list of strings after removing all consonants from each string.
+131. Print the concatenation of all strings in a list.
+132. Print the intersection of two lists of strings.
+133. Print the union of two lists of strings.
+134. Print the difference between two lists of strings.
+135. Print the symmetric difference between two lists of strings.
+136. Print the elements of a list that start with a vowel.
+137. Print the elements of a list that end with a vowel.
+138. Print the elements of a list that contain at least one vowel.
+139. Print the elements of a list that contain no vowels.
+140. Print the elements of a list that have more than 3 characters.
+141. Print the elements of a list that have exactly 3 characters.
+142. Print the elements of a list that have less than 3 characters.
+143. Print the frequency of each digit in a number.
+144. Print the number after reversing its digits.
+145. Print the number after removing duplicate digits.
+146. Print the number of even digits in a number.
+147. Print the number of odd digits in a number.
+148. Print the number of prime digits in a number.
+149. Print the sum of even digits in a number.
+150. Print the sum of odd digits in a number.
+151. Print the product of even digits in a number.
+152. Print the product of odd digits in a number.
+153. Print the number after sorting its digits in ascending order.
+154. Print the number after sorting its digits in descending order.
+155. Print the number after removing all even digits.
+156. Print the number after removing all odd digits.
+157. Print the number after replacing each digit with its square.
+158. Print the number after replacing each digit with its cube.
+159. Print the number after replacing each digit with the corresponding letter
